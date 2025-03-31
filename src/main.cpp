@@ -5,7 +5,7 @@
 
 // --- WiFi Credentials ---
 const char* ssid = "free";
-const char* password = "22334455";
+const char* password = "22334455"; // have fun(:   this is real pass
 
 // --- Servo Setup ---
 const int servoPin = 13; // GPIO pin connected to the servo signal wire - CHANGE IF NEEDED
